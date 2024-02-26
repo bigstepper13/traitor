@@ -61,4 +61,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 
 New1
 New2
-New3
+More New3
